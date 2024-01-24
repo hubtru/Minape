@@ -1,0 +1,10 @@
+Python==3.9.15
+jupyter_notebook==6.5.2
+pandas==1.5.2
+numpy==1.24.1
+matplotlib==3.6.2
+seaborn==0.12.2
+opencv-python==4.7.0.68
+tensorflow==2.11.0
+tensorflow-addons==0.19.0
+keras-tuner==1.1.3
