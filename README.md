@@ -142,6 +142,19 @@ To use this project, follow these steps:
 4. Run the script in Jupyter Notebook or in Colab. 
 
 For more information about how to use the Minape code with Mudestreda Dataset please visit dataset website: https://zenodo.org/records/8238653. 
+
+## Minape Colab demo
+
+
+| Type       | Signals                      | Colab Link | Description                   |
+|------------|------------------------------|------------|-------------------------------|
+| Multimodal | Tool images and Spectrograms | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hubtru/Minape/blob/main/jupyter%20notebooks/mult_reccurent_aug_tooldist_evaluation.ipynb) | Multimodal evaluation     
+| Multimodal | Tool images and Spectrograms | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hubtru/Minape/blob/main/jupyter%20notebooks/mult_reccurent_aug_tooldist.ipynb) | Multimodal fine-tuning        | 
+| Unimodal   | Tool images                  | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hubtru/Minape/blob/main/jupyter%20notebooks/iso_tool_aug_tooldist_opt.ipynb) | Unimodal tool images training |
+| Unimodal   | Spectrograms                 | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hubtru/Minape/blob/main/jupyter%20notebooks/iso_spec_aug_tooldist_opt.ipynb) | Unimodal spectrograms training |
+
+
+
 ## Data
 **Mudestreda**: Multimodal Device State Recognition Dataset
 
