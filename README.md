@@ -143,7 +143,7 @@ To use this project, follow these steps:
 
 For more information about how to use the Minape code with Mudestreda Dataset please visit dataset website: https://zenodo.org/records/8238653. 
 
-## Minape Colab demo
+## Minape Colab
 
 
 | Type       | Signals                      | Colab Link | Description                   |
@@ -152,6 +152,16 @@ For more information about how to use the Minape code with Mudestreda Dataset pl
 | Multimodal | Tool images and Spectrograms | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hubtru/Minape/blob/main/jupyter%20notebooks/mult_reccurent_aug_tooldist.ipynb) | Multimodal fine-tuning        | 
 | Unimodal   | Tool images                  | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hubtru/Minape/blob/main/jupyter%20notebooks/iso_tool_aug_tooldist_opt.ipynb) | Unimodal tool images training |
 | Unimodal   | Spectrograms                 | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hubtru/Minape/blob/main/jupyter%20notebooks/iso_spec_aug_tooldist_opt.ipynb) | Unimodal spectrograms training |
+
+## Hugging Face Space
+
+Check out our interactive Hugging Face Space:
+
+
+| Description           | Link                                                                                                                   |
+|-----------------------|----------------------------------|
+| Minape Demonstrator   | <a href="https://huggingface.co/spaces/hubtru/Minape"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50"/></a>| 
+
 
 
 
