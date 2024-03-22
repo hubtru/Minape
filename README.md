@@ -165,10 +165,11 @@ Check out our interactive Hugging Face Space:
 
 
 
-## Data
+## Mudestreda Dataset
 **Mudestreda**: Multimodal Device State Recognition Dataset
 
 Link to complete dataset with detailed description: https://zenodo.org/records/8238653  
+If you use Mudestreda dataset cite the work `Minape @ ICONIP2023`.
 
 This section provides information about the data used in the project, including where it came from, how it was collected or generated, and any preprocessing or cleaning that was done.
 
@@ -269,7 +270,9 @@ For more visualisation, see:  [Interpretability](interpretability/)
 Pull requests are great. For major changes, please open an issue first to discuss what you would like to change.  
 Please make sure to update tests as appropriate.
 
-## Cite the Paper: 
+## Cite the Paper or Dataset: 
+If you reference the papr or you use Mudestreda dataset cite the work `Minape @ ICONIP2023`
+```
 @inproceedings{truchan2023multimodal,  
   title={Multimodal Isotropic Neural Architecture with Patch Embedding},  
   author={Truchan, Hubert and Naumov, Evgenii and Abedin, Rezaul and Palmer, Gregory and Ahmadi, Zahra},  
@@ -278,20 +281,7 @@ Please make sure to update tests as appropriate.
   year={2023},  
   organization={Springer}  
 }  
-
-
-
-## Cite the Dataset: 
-
-@dataset{truchan_2024_8238653,  
-  author       = {Truchan, Hubert and Admadi, Zahra},  
-  title        = {{Mudestreda Multimodal Device State Recognition Dataset}},  
-  month        = jan,  
-  year         = 2024,  
-  publisher    = {Zenodo},  
-  doi          = {10.5281/zenodo.8238653},  
-  url          = {https://doi.org/10.5281/zenodo.8238653}  
-} 
+```
 
 ## License
 The project is released under MIT license. 
